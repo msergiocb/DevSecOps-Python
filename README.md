@@ -1,2 +1,12 @@
-# DevSecOps-Python
-Practicas DevSecOps Senior con herramientas free tier (K8s, Sonar, CI/CD, SAST/DAST)
+# DevOps Demo Project (FastAPI + React + Postgres)
+
+## Requisitos
+- Docker & Docker Compose
+- (Opcional) kubectl y Helm para deploy en Kubernetes
+
+## Desarrollo local (docker-compose)
+En la raíz del proyecto:
+
+```bash
+docker-compose build
+docker-compose up
